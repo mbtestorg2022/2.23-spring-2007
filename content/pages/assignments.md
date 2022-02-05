@@ -9,14 +9,75 @@ This course includes problem sets 1-6, and examples of MATLAB® solutions for pr
 Problem Sets
 ------------
 
-| ASSIGNMENTS | SOLUTIONS |
-| --- | --- |
-| Problem set 1 ([PDF]({{< baseurl >}}/resources/ps1)) | ([ZIP]({{< baseurl >}}/resources/sol1)) (The ZIP file contains: 2 .dat files and 6 .m files.) |
-| Problem set 2 ([PDF]({{< baseurl >}}/resources/ps2)) | ([ZIP]({{< baseurl >}}/resources/sol2)) (The ZIP file contains: 8 .m files.) |
-| Problem set 3 ([PDF]({{< baseurl >}}/resources/ps3)) | ([ZIP]({{< baseurl >}}/resources/sol3)) (The ZIP file contains: 6 .m files.) |
-| Problem set 4 ([PDF]({{< baseurl >}}/resources/ps4)) | &nbsp; |
-| Problem set 5 ([PDF]({{< baseurl >}}/resources/ps5)) | ([ZIP]({{< baseurl >}}/resources/sol5)) (The ZIP file contains: 1 .m file and pset5\_soln.pdf.) |
-| Problem set 6 ([PDF]({{< baseurl >}}/resources/ps6)) |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+{{< thopen >}}
+SOLUTIONS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 1 ([PDF]({{< baseurl >}}/resources/ps1))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/sol1)) (The ZIP file contains: 2 .dat files and 6 .m files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 2 ([PDF]({{< baseurl >}}/resources/ps2))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/sol2)) (The ZIP file contains: 8 .m files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 3 ([PDF]({{< baseurl >}}/resources/ps3))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/sol3)) (The ZIP file contains: 6 .m files.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 4 ([PDF]({{< baseurl >}}/resources/ps4))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 5 ([PDF]({{< baseurl >}}/resources/ps5))
+{{< tdclose >}}
+{{< tdopen >}}
+([ZIP]({{< baseurl >}}/resources/sol5)) (The ZIP file contains: 1 .m file and pset5\_soln.pdf.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem set 6 ([PDF]({{< baseurl >}}/resources/ps6))
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Design Project
 --------------

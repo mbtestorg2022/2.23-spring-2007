@@ -26,40 +26,489 @@ Kerwin, Justin. _Lecture Notes on Hydrofoils and Propellers_. Cambridge, MA, Jan
 Evaluation
 ----------
 
-| METHODS | WEIGHT |
-| --- | --- |
-| Assignments (Approx. 8-10) | 40% |
-| Exams (2) | 40% |
-| Project | 20% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+METHODS
+{{< thclose >}}
+{{< thopen >}}
+WEIGHT
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Assignments (Approx. 8-10)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Exams (2)
+{{< tdclose >}}
+{{< tdopen >}}
+40%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Project
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  | Intro: Propeller geometry, 2D foil geometry, performance selection and B-series | &nbsp; |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  | Actuator disk theory | Homework 1 out |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  | Potential flow around a circle w. Lift, circulation Kutta-Joukowski law | &nbsp; |
-|  {{< br >}}{{< br >}} 4 {{< br >}}{{< br >}}  | Vortex lines, Biot-Savart law and velocity induced by a vortex segment | Homework 1 due |
-|  {{< br >}}{{< br >}} 5 {{< br >}}{{< br >}}  | Linearized lifting surface theory, bound and free vorticity, Kelvin's theorem | Homework 2 out |
-|  {{< br >}}{{< br >}} 6 {{< br >}}{{< br >}}  | Vortex lattice lifting line, 3D vortex lattice lifting surface | Homework 2 due |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  | Lift and drag on a lin. Lifting surface, Glauerts method | Homework 3 out |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  | Prop. Lifting line theory, Betz/Lerbs criteria, Kramer diagram | &nbsp; |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  | Propeller vortex lattice lifting line | Homework 3 due |
-|  {{< br >}}{{< br >}} 10 {{< br >}}{{< br >}}  | Quiz 1, 1 hour open book | &nbsp; |
-|  {{< br >}}{{< br >}} 11 {{< br >}}{{< br >}}  | Linear 2D theory, circ. Distributions, Glauert's theory | Homework 4 out |
-|  {{< br >}}{{< br >}} 12 {{< br >}}{{< br >}}  | Flat plates, parabolic meanlines and NACA data | &nbsp; |
-|  {{< br >}}{{< br >}} 13 {{< br >}}{{< br >}}  | Linearized thickness, lighthill's rule, leading edge suction | Homework 4 due |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  | 2D foil design, cavitation buckets, Brockett diagrams | Homework 5 out |
-|  {{< br >}}{{< br >}} 15 {{< br >}}{{< br >}}  | 2D panel methods | &nbsp; |
-|  {{< br >}}{{< br >}} 16 {{< br >}}{{< br >}}  | 2D Vortex lattice method |  {{< br >}}{{< br >}} Homework 5 due {{< br >}}{{< br >}} Homework 6 out {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 17 {{< br >}}{{< br >}}  | Topic TBD | &nbsp; |
-|  {{< br >}}{{< br >}} 18 {{< br >}}{{< br >}}  | 2D boundary layer theory XFOIL | Homework 6 due |
-|  {{< br >}}{{< br >}} 19 {{< br >}}{{< br >}}  | Quiz 2, 1 hour open book | &nbsp; |
-|  {{< br >}}{{< br >}} 20 {{< br >}}{{< br >}}  | Vortex lattice propeller lifting surface, PBD | &nbsp; |
-|  {{< br >}}{{< br >}} 21 {{< br >}}{{< br >}}  | 3D panel methods | &nbsp; |
-|  {{< br >}}{{< br >}} 22 {{< br >}}{{< br >}}  | Effective wake, unsteady inflow and vortex lattice solvers | &nbsp; |
-|  {{< br >}}{{< br >}} 23 {{< br >}}{{< br >}}  | Throughflow solvers and coupled methods | &nbsp; |
-|  {{< br >}}{{< br >}} 24 {{< br >}}{{< br >}}  | Windmills | &nbsp; |
-|  {{< br >}}{{< br >}} 25 {{< br >}}{{< br >}}  | Waterjets | &nbsp; |
-|  {{< br >}}{{< br >}} 26 {{< br >}}{{< br >}}  | Advanced propulsion |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Intro: Propeller geometry, 2D foil geometry, performance selection and B-series
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Actuator disk theory
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Potential flow around a circle w. Lift, circulation Kutta-Joukowski law
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Vortex lines, Biot-Savart law and velocity induced by a vortex segment
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+5
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Linearized lifting surface theory, bound and free vorticity, Kelvin's theorem
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Vortex lattice lifting line, 3D vortex lattice lifting surface
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Lift and drag on a lin. Lifting surface, Glauerts method
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Prop. Lifting line theory, Betz/Lerbs criteria, Kramer diagram
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Propeller vortex lattice lifting line
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 3 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1, 1 hour open book
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Linear 2D theory, circ. Distributions, Glauert's theory
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Flat plates, parabolic meanlines and NACA data
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Linearized thickness, lighthill's rule, leading edge suction
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 4 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+2D foil design, cavitation buckets, Brockett diagrams
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 5 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+2D panel methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+16
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+2D Vortex lattice method
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Homework 5 due
+
+Homework 6 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+17
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Topic TBD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+18
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+2D boundary layer theory XFOIL
+{{< tdclose >}}
+{{< tdopen >}}
+Homework 6 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2, 1 hour open book
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+20
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Vortex lattice propeller lifting surface, PBD
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+3D panel methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+22
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Effective wake, unsteady inflow and vortex lattice solvers
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+23
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Throughflow solvers and coupled methods
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+24
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Windmills
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+25
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Waterjets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+26
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Advanced propulsion
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
